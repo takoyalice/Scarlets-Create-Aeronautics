@@ -1,0 +1,169 @@
+# Mod List - Scarlet's Create Aeronautics 1.0.1
+
+Total entries: **154**
+
+## Mods (112)
+
+- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - `1.11.1`
+- [AddonsLib](https://modrinth.com/mod/addonslib) - `1.21.1-1.10`
+- [Advent Of Ascension](https://modrinth.com/mod/adventofascension) - `3.7.16.1`
+- [Aether Villages](https://modrinth.com/mod/aether-villages) - `1.0.8`
+- [Angel Islands](https://modrinth.com/mod/angel-islands) - `2.0.3+mod`
+- [Applied Energistics 2](https://modrinth.com/mod/ae2) - `19.2.17`
+- [Architectury API](https://modrinth.com/mod/architectury-api) - `13.0.8+neoforge`
+- [BaguetteLib](https://modrinth.com/mod/baguettelib) - `2.0.3`
+- [Building Wands](https://modrinth.com/mod/building-wands) - `2.14_release_neoforge_1.21`
+- [Carry On](https://modrinth.com/mod/carry-on) - `2.2.4`
+- [Chunky](https://modrinth.com/mod/chunky) - `1.4.23`
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) - `15.0.140+neoforge`
+- [Clumps](https://modrinth.com/mod/clumps) - `19.0.0.1`
+- [CodeChicken Lib](https://modrinth.com/mod/codechicken-lib) - `4.6.1.526`
+- [Colorwheel](https://modrinth.com/mod/colorwheel) - `1.2.4+mc1.21.1`
+- [Colorwheel Patcher](https://modrinth.com/mod/colorwheel-patcher) - `1.0.5+mc1.21.1`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/mod/c2me-neoforge) - `0.3.0+alpha.0.91+1.21.1`
+- [Corpse](https://modrinth.com/mod/corpse) - `neoforge-1.21.1-1.1.13`
+- [Corpse x Curios API Compat](https://modrinth.com/mod/corpse-x-curios-api-compat) - `4.0.1`
+- [Create](https://modrinth.com/mod/create) - `6.0.10+mc1.21.1`
+- [Create Aeronautics](https://modrinth.com/mod/create-aeronautics) - `1.1.3+mc1.21.1`
+- [Create Big Cannons](https://modrinth.com/mod/create-big-cannons) - `5.11.2`
+- [Create Crafts & Additions](https://modrinth.com/mod/createaddition) - `neoforge-1.21.1-1.5.10`
+- [Create Deco](https://modrinth.com/mod/create-deco) - `2.1.3`
+- [Create Encased](https://modrinth.com/mod/create-encased) - `1.8-ht2`
+- [Create Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions) - `2.1.0.e`
+- [Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)](https://modrinth.com/mod/createoplenty) - `3.0`
+- [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators) - `1.21.1-1.3.11`
+- [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) - `1.10.0b`
+- [Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires) - `2.2d-BETA`
+- [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) - `2.3.1`
+- [Create: Fishing Bobber Detector](https://modrinth.com/mod/create-fishing-bobber-detector) - `1.0.3`
+- [Create: Fuel & Water Information](https://modrinth.com/mod/create-fuel-water-information) - `1.6.0`
+- [Create: Integrated Farming](https://modrinth.com/mod/create-integrated-farming) - `1.2.2`
+- [Create: Interiors](https://modrinth.com/mod/interiors) - `0.6.1`
+- [Create: New Age](https://modrinth.com/mod/create-new-age) - `1.1.7c+mc1.21.1`
+- [Create: Ultimate Factory](https://modrinth.com/mod/create-ultimate-factory) - `2.2.3`
+- [Cristel Lib](https://modrinth.com/mod/cristel-lib) - `3.0.3`
+- [Curios API](https://modrinth.com/mod/curios) - `9.5.1+1.21.1`
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons) - `3.0.2-b-1.21.1`
+- [DivineRPG](https://modrinth.com/mod/divinerpg) - `1.10.9.3`
+- [Echoes of The End ( Structures)](https://modrinth.com/mod/echoes-of-the-end-(-structures)) - `11.00.12`
+- [ElevatorMod](https://modrinth.com/mod/elevatormod) - `neoforge-1.21.1-1.11.4`
+- [Elysium API](https://modrinth.com/mod/elysium-api) - `1.21.1-1.2.0-ALPHA.12`
+- [Ender Storage](https://modrinth.com/mod/ender-storage) - `2.13.0.191`
+- [Essential Mod](https://modrinth.com/mod/essential) - `1.3.10.8`
+- [Explore Ruins: The Aether - Dungeons & Structures](https://modrinth.com/mod/explore-ruins-aether) - `1.0.0`
+- [Exposure](https://modrinth.com/mod/exposure) - `1.9.16`
+- [Fantastic Wings](https://modrinth.com/mod/fantastic-wings) - `v21.1.1-1.21.1-NeoForge`
+- [Farmer's Cutting: The Aether](https://modrinth.com/mod/farmers-cutting-the-aether) - `1.21.1-1.0-neoforge+mod`
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - `1.21.1-1.2.11a`
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) - `7.0.3-neoforge`
+- [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) - `1.2.12-neoforge-mc1.21.1`
+- [Geckolib](https://modrinth.com/mod/geckolib) - `4.8.4`
+- [GuideME](https://modrinth.com/mod/guideme) - `21.1.15`
+- [Handcrafted](https://modrinth.com/mod/handcrafted) - `4.0.3`
+- [Horseman](https://modrinth.com/mod/horseman) - `1.5.9`
+- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) - `12.4.2-194`
+- [Iris Shaders](https://modrinth.com/mod/iris) - `1.8.12+1.21.1-neoforge`
+- [Jade 🔍](https://modrinth.com/mod/jade) - `15.10.5+neoforge`
+- [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights) - `4.8.8+1.21.1`
+- [Lithium](https://modrinth.com/mod/lithium) - `mc1.21.1-0.15.3-neoforge`
+- [Lootr](https://modrinth.com/mod/lootr) - `1.21.1-1.11.37.118`
+- [Macaw's Biomes O' Plenty](https://modrinth.com/mod/macaws-biomes-o-plenty) - `1.21.1-1.5`
+- [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) - `3.1.2`
+- [Macaw's Doors](https://modrinth.com/mod/macaws-doors) - `1.1.5`
+- [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) - `1.1.5`
+- [Macaw's Stairs](https://modrinth.com/mod/macaws-stairs) - `1.0.2`
+- [Macaw's Windows](https://modrinth.com/mod/macaws-windows) - `2.4.2`
+- [Mekanism](https://modrinth.com/mod/mekanism) - `10.7.19.85`
+- [Mekanism Generators](https://modrinth.com/mod/mekanism-generators) - `10.7.19.85`
+- [Mermod](https://modrinth.com/mod/mermod) - `3.3.2`
+- [MES - Moog's End Structures](https://modrinth.com/mod/mes-moogs-end-structures) - `2.0.1`
+- [Moog's Structure Lib (moogs_structures)](https://modrinth.com/mod/moogs-structure-lib) - `2.0.2`
+- [Moonlight Lib](https://modrinth.com/mod/moonlight) - `1.21-2.29.33-neoforge`
+- [More Sweet Treats! - Food Expansion](https://modrinth.com/mod/more-sweet-treats) - `1.0.0`
+- [MVS - Moog's Voyager Structures](https://modrinth.com/mod/moogs-voyager-structures) - `5.0.8`
+- [Nameless Trinkets](https://modrinth.com/mod/nameless-trinkets) - `1.2.3`
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) - `1.12.2`
+- [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims) - `neoforge-1.21.1-0.26.2`
+- [Ore Vein Miner](https://modrinth.com/mod/ore-vein-miner) - `1.2+mod`
+- [oωo (owo-lib)](https://modrinth.com/mod/owo-lib) - `0.12.15.5-beta.1+1.21`
+- [Patchouli](https://modrinth.com/mod/patchouli) - `1.21.1-93-neoforge`
+- [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) - `v21.1.39-1.21.1-NeoForge`
+- [Quark](https://modrinth.com/mod/quark) - `4.1-477`
+- [Rechiseled](https://modrinth.com/mod/rechiseled) - `1.2.4-neoforge-mc1.21`
+- [Rechiseled: Create](https://modrinth.com/mod/rechiseled-create) - `1.1.0-neoforge-mc1.21`
+- [ReEstrogen](https://modrinth.com/mod/reestrogen) - `2.2.1`
+- [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) - `3.0.12`
+- [Ritchie's Projectile Library](https://modrinth.com/mod/rpl) - `2.1.2`
+- [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) - `16.0.799+neoforge`
+- [Sable](https://modrinth.com/mod/sable) - `1.1.3+mc1.21.1`
+- [Simple Drills](https://modrinth.com/mod/simple-drills) - `1.6.1`
+- [SmartBrainLib](https://modrinth.com/mod/smartbrainlib) - `1.16.11`
+- [Sodium](https://modrinth.com/mod/sodium) - `mc1.21.1-0.6.13-neoforge`
+- [spark](https://modrinth.com/mod/spark) - `1.10.124-neoforge-1.21.1`
+- [Stellarity](https://modrinth.com/mod/stellarity) - `3.0.6.1+mod`
+- [Structory](https://modrinth.com/mod/structory) - `1.3.16`
+- [Structory: Towers](https://modrinth.com/mod/structory-towers) - `1.0.16`
+- [Structures+](https://modrinth.com/mod/structures+) - `1.6`
+- [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib) - `1.1.8-neoforge-mc1.21`
+- [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) - `1.1.21-neoforge-mc1.21`
+- [Supplementaries](https://modrinth.com/mod/supplementaries) - `1.21-3.5.34-neoforge`
+- [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared) - `neoforge_1.21-1.2.17`
+- [Towns and Towers](https://modrinth.com/mod/towns-and-towers) - `1.13.7`
+- [Trash Cans](https://modrinth.com/mod/trash-cans) - `1.0.18c-neoforge-mc1.21`
+- [TreeTimber](https://modrinth.com/mod/treetimber-treecapitator) - `1.0.1`
+- [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to) - `1.21.0-1.2.7`
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - `neoforge-1.21.1-25.3.10`
+- [Xaero's Minimap & World Map - Waystones Compatibility](https://modrinth.com/mod/xaeros-minimap-world-map-waystones-compatibility-forge) - `2.1.0`
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - `neoforge-1.21.1-1.40.11`
+- [Zeta](https://modrinth.com/mod/zeta) - `1.1-40`
+
+## Mods (Overrides) (32)
+
+- Aether
+- Anvilcore 10.1 Release Neoforge
+- Apotheosis
+- Apothicattributes
+- Apothicenchanting
+- Apothicspawners
+- Balm Neoforge
+- Biomesoplenty Neoforge
+- Configured Neoforge
+- Coroutil Neoforge
+- Cosmeticarmorreworked
+- Create Connected
+- Cupboard
+- Darkblades
+- Fluxnetworks
+- Framework Neoforge
+- Glitchcore Neoforge
+- Kotlinforforge
+- Lootintegration Townsandtowers
+- Lootintegrations
+- Lootintegrations Moog
+- Lootintegrations Vanilla
+- Mm Farming
+- Piglet Structures [Less Common Structures Edition] 1.21.1(Ver.1.456)
+- Placebo
+- Refurbished Furniture Neoforge
+- Sophisticatedbackpacks
+- Sophisticatedcore
+- Terrablender Neoforge
+- Twilightforest
+- Waystones Neoforge
+- Withersweapons
+
+## Shader Packs (8)
+
+- [Bliss Shaders](https://modrinth.com/shader/bliss-shader) - `2.1.2`
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders) - `10.1.3`
+- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) - `r5.7.1`
+- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) - `r5.7.1`
+- [Hysteria Shaders](https://modrinth.com/shader/hysteria-shaders) - `1.2.1`
+- [Insanity Shader](https://modrinth.com/shader/insanity-shader) - `1.650`
+- [Photon Shaders](https://modrinth.com/shader/photon-shader) - `v1.3b`
+- [Solas Shader](https://modrinth.com/shader/solas-shader) - `3.5`
+
+## Shader Packs (Overrides) (2)
+
+- Bliss V2.1.2 (Chocapic13 Shaders Edit) + Clrwl
+- Bsl V10.1.1 + Clrwl
