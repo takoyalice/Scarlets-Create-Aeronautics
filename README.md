@@ -29,8 +29,10 @@ Press the **Gear** icon to modify the amount of dedicated memory for the modpack
 - Replaced Graves mod with Corpse mod due to server crashes
 - Added Mekanism Generators
 - Added Exposure mod
-- Added HorseInBoat Mod
 - Added Horseman Mod
+- Added Ore Vein Miner
+- Update BSL Shaders to 10.1.13
+- Update OpenParties to neoforge-1.21.1-0.26.2
 
 ### 1.0.0
 - First release
